@@ -1,13 +1,13 @@
 package enums;
 
-public enum conferenceType {
+public enum ConferenceType {
 
     SMALL(100),
     LARGE(200);
 
     private final int capacity;
 
-    conferenceType(int capacity){
+    ConferenceType(int capacity){
         this.capacity = capacity;
     }
 
