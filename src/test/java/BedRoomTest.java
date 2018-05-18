@@ -6,8 +6,6 @@ import rooms.Bedroom;
 import static junit.framework.TestCase.assertEquals;
 
 public class BedRoomTest {
-    
-
 
     Bedroom bedroom;
 
